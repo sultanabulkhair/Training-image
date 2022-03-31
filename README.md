@@ -17,5 +17,6 @@ dz: 3
 
 X0, Y0 and Z0: confidential information
 
-In case of using this training image, please reference the original publication:
+In case of using this training image, please reference the original publication: 
+
 Abulkhair, S., Madani, N. Stochastic modeling of iron in coal seams using two-point and multiple-point geostatistics: A case study. Mining, Metallurgy & Exploration (2022). https://doi.org/10.1007/s42461-022-00586-0
